@@ -8,7 +8,6 @@ app = FastAPI()
 def hello():
     return {"message": "Hello, World!"}
 
-# app/main.py
 
 
 
